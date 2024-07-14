@@ -1,0 +1,65 @@
+/* *{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+} */
+body{
+
+    background-color:  hsl(217, 54%, 11%);
+
+}
+
+.main{
+    width: 370px;
+    margin: 0 auto;
+    height: fit-content;
+    border-radius: 12px;
+    background-color:  hsl(216, 50%, 16%);
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300, 400, 600;
+    font-style: normal;
+}
+
+.img{
+    width: 340px;
+    display: block;
+    border-radius: 12px;
+    margin: 0.85rem;
+
+}
+.two{
+    color: hsl(215, 51%, 70%);
+    margin: 0.8rem;
+    
+}
+h3{
+    color: whitesmoke;
+}
+h4{
+    color: hsl(178, 100%, 50%);
+}
+span{
+    display: flex;
+    flex-direction: row;
+    gap: 10rem;
+    padding: 0;
+
+    
+}
+.ava{
+    width: 4rem;
+    
+}
+.par{
+    display: inline;
+}
+.last{
+    display:flex;
+    flex-direction: row;
+    gap: 0.5rem;
+    text-align: center;
+    align-items: center;
+
+
+}
